@@ -31,3 +31,5 @@ En este paquete pongo la implementación de todos los pasos de los escenarios de
 Esta clase se encarga de la lógica de todos los escenarios, contiene todos localizadores y ejecuta todas las acciones de la prueba.
 //en vista de que esta prueba es simple, he decidido no implementar el pom (page object model) pero si se tratase de un software en desarrollo 
 lo que yo haría es crear una clase para cada acción de esa forma si se modifica un localizador será más fácil cambiarlo//
+
+Al ejecutarse el scrip, justo depues de la ejecucion se creará un reporte con cucumber.
